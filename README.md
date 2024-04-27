@@ -7,8 +7,7 @@
 
 1. Python3 should be installed in your system.
 2. Create virtual environment and activate it. Steps can be found on internet according to your Operating system.
-3. Developer should have OPENAI(https://openai.com) API KEY.
-4. Download and install Ollama(https://ollama.com) locally to run open source LLM models. Models supported by Ollama can be found at https://github.com/ollama/ollama 
+3. Download and install Ollama(https://ollama.com) locally to run open source LLM models. Models supported by Ollama can be found at https://github.com/ollama/ollama 
 
 * **Steps to be followed**:
 1. Download the packages --> pip install langchain langchain-openai streamlit langchain_community uvicorn sse_starlette langserve fastapi python-dotenv
