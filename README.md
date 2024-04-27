@@ -12,5 +12,5 @@ Steps to be followed:
 1. Download the packages --> pip install langchain langchain-openai streamlit langchain_community uvicorn sse_starlette langserve fastapi --> python -m pip install python-dotenv
 2. Create ".env" file with below variables and their correct values. --> OPENAI_API_KEY="your key"
 3. Create "app.py" and "main.py" files and use the code provided.
-4. In your terminal/command prompt run command "ollama run llama3". This will pull the files of the llama3 model from Ollama and run that model locally on your system.
+4. In your terminal/command prompt run command "ollama run llama2". This will pull the files of the llama2 model from Ollama and run that model locally on your system.
 5. Run the command in terminal: streamlit run main.py
